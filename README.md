@@ -1,0 +1,2 @@
+# hexaCRI
+Robot hexápodo WIP
